@@ -1,6 +1,3 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Vikas+Prajapati;Data+Analyst;Power+BI+Developer;Python+Programmer;SQL+Learner;Welcome+to+my+GitHub"/>
-</p>
 
 <h1 align="center">
 Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Vikas Prajapati
@@ -11,7 +8,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&color=00C2FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!;Power+BI+Developer;Python+Developer;SQL+Learner;Data+Analytics+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Vikas+Prajapati;Data+Analyst;Power+BI+Developer;Python+Programmer;SQL+Learner;Welcome+to+my+GitHub"/>
 </p>
 
 ---
