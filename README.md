@@ -33,20 +33,16 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 
 ---
 
-# 📊 GitHub Stats
-
 ## 🏆 GitHub Trophies
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=vikasprajapati02&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vikasprajapati02&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasprajapati02&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vikasprajapati02&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasprajapati02&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikasprajapati02&theme=tokyonight"/>
 </p>
 
 ---
