@@ -94,3 +94,12 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p align="center">
   <img src="https://raw.githubusercontent.com/vikasprajapati02/vikasprajapati02/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+# 🚀 Featured Projects
+
+| Project | Tech |
+|---------|------|
+| 🚗 Car Sales Dashboard | Power BI |
+| ☕ Coffee Sales Dashboard | Excel |
+| 📊 SQL Data Analysis | SQL |
+| 🐍 Python Projects | Python |
