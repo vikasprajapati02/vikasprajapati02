@@ -1,5 +1,9 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hi+I'm+Vikas+Prajapati;Data+Analyst;Power+BI+Developer;Python+Programmer;SQL+Learner;Welcome+to+my+GitHub"/>
+</p>
+
 <h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm Vikas Prajapati
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> I'm Vikas Prajapati
 </h1>
 
 <h3 align="center">
@@ -33,6 +37,12 @@
 ---
 
 # 📊 GitHub Stats
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=vikasprajapati02&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+</p>
 
 <p align="center">
 
