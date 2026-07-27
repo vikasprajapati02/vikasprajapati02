@@ -96,6 +96,6 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 | Project | Tech |
 |---------|------|
 | 🚗 Car Sales Dashboard | Power BI |
-| ☕ Coffee Sales Dashboard | Excel |
+| 📱 Mobile Sales Dashboard | Excel |
 | 📊 SQL Data Analysis | SQL |
 | 🐍 Python Projects | Python |
