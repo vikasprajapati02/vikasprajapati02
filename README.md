@@ -98,4 +98,4 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 | 🚗 Car Sales Dashboard | Power BI |
 | 📱 Mobile Sales Dashboard | Excel |
 | 📊 SQL Data Analysis | SQL |
-| 🐍 Python Projects | Python |
+| 🐍 Calculator | Python |
